@@ -1,6 +1,6 @@
 # PHP - Les fonctions
 
-Preview : 
+Preview : https://htmlpreview.github.io/?https://github.com/elixman/Exo5-php-Les-fonctions/blob/master/index.php
 
 ## Exercice 1
 Faire une fonction qui retourne **true**.
