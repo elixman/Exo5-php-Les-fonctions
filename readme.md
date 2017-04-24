@@ -1,4 +1,7 @@
 # PHP - Les fonctions
+
+Preview : 
+
 ## Exercice 1
 Faire une fonction qui retourne **true**.
 
